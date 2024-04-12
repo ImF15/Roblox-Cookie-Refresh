@@ -1,0 +1,19 @@
+{
+  "name": "starter-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImF15/Roblox-Cookie-Refresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/ImF15/Roblox-Cookie-Refresh/issues"
+  },
+  "homepage": "https://github.com/ImF15/Roblox-Cookie-Refresh#readme"
+}
